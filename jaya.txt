@@ -7,4 +7,3 @@ git diff
 git diff --cached
 git diff head
 git undo
-git revert
