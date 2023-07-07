@@ -4,4 +4,5 @@ revert
 undo
 redo
 git diff
-git diff -cached
+git diff --cached
+git diff head
