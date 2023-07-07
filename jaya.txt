@@ -8,3 +8,4 @@ git diff --cached
 git diff head
 git undo
 test bbraching
+fix bug 123
