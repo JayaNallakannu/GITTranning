@@ -13,4 +13,5 @@ test bbraching
 This is the code for fix bug 123 and 456
 git stash
 test remote repo
+tets git pull
 
