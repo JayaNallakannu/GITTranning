@@ -15,4 +15,6 @@ git stash
 test remote repo
 tets git pull
 test one more time git fetch and pull
+test git pull one more time
+
 
